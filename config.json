@@ -1,0 +1,17 @@
+{
+  "gestures": {
+    "open_palm": "volumeup",
+    "closed_fist": "volumedown",
+    "thumbs_up": "volumemute",
+    "pointing_index": "pagedown",
+    "peace_sign": "browserback"
+  },
+  "commands": {
+    "volumeup": {"type": "key", "key": "volumeup"},
+    "volumedown": {"type": "key", "key": "volumedown"},
+    "volumemute": {"type": "key", "key": "volumemute"},
+    "pagedown": {"type": "key", "key": "pagedown"},
+    "browserback": {"type": "hotkey", "keys": ["alt", "left"]}
+  },
+  "confidence_threshold": 0.8
+}
