@@ -58,7 +58,7 @@ A real-time hand gesture recognition system that maps gestures to keyboard/mouse
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/princesingh1702/Real-Time-Gesture-Control-System.git
+git clone https://github.com/princesingh-ai-dev/Real-Time-Gesture-Control-System.git
 cd Real-Time-Gesture-Control-System
 
 # 2. Create virtual environment
